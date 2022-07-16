@@ -9,7 +9,7 @@ body{
     background-color: black;
 }
 .hero{
-    height: 200vh;
+    height: 100vh;
     width: 100%;
     background-image: url(img/photo_2022-07-13_20-41-27.jpg);
     background-size: cover;
